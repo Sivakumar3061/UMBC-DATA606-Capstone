@@ -1,4 +1,4 @@
-# 1. Title and Author
+# 1. UMBC DATA606 Capstone – Vacant Land Price Prediction Proposal
 
 **Project Title:** Spatial Comps for Vacant Land Valuation in Baltimore  
 **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang  
