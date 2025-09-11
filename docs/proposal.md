@@ -2,8 +2,8 @@
 
 **Project Title:** Spatial Comps for Vacant Land Valuation in Baltimore  
 **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang  
-**Author:** Sivakumar Deivanayagam 
-**GitHub Repo:** https://github.com/Sivakumar3061/UMBC-DATA606-Capstone
+**Author:** Sivakumar Deivanayagam  
+**GitHub Repo:** https://github.com/Sivakumar3061/UMBC-DATA606-Capstone  
 **LinkedIn:** https://www.linkedin.com/in/siva-kumar-deivanayagam/
 
 ---
