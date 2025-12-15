@@ -12,7 +12,7 @@ Instructor: **Dr. Chaojie (Jay) Wang**
 **GitHub Repository:** *https://github.com/Sivakumar3061/UMBC-DATA606-Capstone*  
 **LinkedIn Profile:** *https://www.linkedin.com/in/siva-kumar-deivanayagam/*  
 **PowerPoint Presentation:** *https://drive.google.com/drive/folders/15EjSl8UmnekECu-Y2jvmo9L3e-XVS064?usp=sharing*  
-**YouTube Video:** *(insert link if applicable)*  
+**YouTube Video:** *https://www.youtube.com/watch?v=fGV0ZfxPKfA*  
 
 ---
 
